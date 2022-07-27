@@ -68,6 +68,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - With regards [:computer: Ray :computer:](https://github.com/1MahdiR)
 - [sepehrb98 :tophat: :crystal_ball:](https://github.com/sepehrb98)
 - [rez_hiphop](https://github.com/zelash)
+- [Sepehr Fci](https://github.com/sepehrfci)
 - [Ali Rn :snowman:](https://github.com/AliRn76)
 - [Neda :dizzy_face: :smiley: ](https://github.com/ForoutanNeda)
 - [ mohammad hasan zarkhani :sunglasses:](https://github.com/MH-Zarkhani)
